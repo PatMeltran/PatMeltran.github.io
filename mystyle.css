@@ -14,7 +14,7 @@ h1{
     			border-style: solid;
 			border-color: black;
  			border-width: 5px;
-			background-color: white;
+			background-color: lightblue;
 		}
 		p.others{
 			font-size: 15px;
@@ -22,7 +22,7 @@ h1{
 			border-style: solid;
 			border-color: back;
  			border-width: 5px;
-			background-color: white;
+			background-color: lightblue;
 			}
 	     img{
 		       display: block;
@@ -31,9 +31,11 @@ h1{
   			border-radius: 50%;
 		}
 	h2.nickname{
-			text-align: center;
+		text-align: center;
+		font-size: 15px;
 		}
 	p.nickname {
 		text-align: center;
+		font-size: 10px;
 		}
 		
